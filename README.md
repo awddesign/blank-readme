@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# blank-readme
+Blank Read Me md
+>>>>>>> origin/master
 
 # [Awd Design](http://awddesign,co,uk/) - [Template or Code Name here ](https://github.com/awddesign/)
 
@@ -21,4 +26,8 @@ Based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Ot
 
 ## Copyright and License
 
+<<<<<<< HEAD
 Copyright 2017 Awd Design. Code released under the [MIT](https://opensource.org/licenses/MIT) license.
+=======
+Copyright 2017 Awd Design. Code released under the [MIT](https://opensource.org/licenses/MIT) license.
+>>>>>>> origin/master
